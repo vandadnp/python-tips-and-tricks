@@ -4,4 +4,4 @@
 
 # Implementing Range in Python
 
-![](images/implementing-range-in-python)
+![](images/implementing-range-in-python.jpg)
