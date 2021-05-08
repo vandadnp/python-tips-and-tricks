@@ -1,6 +1,11 @@
 # Table of Contents
 
-* [Implementing Range in Python](https://github.com/vandadnp/python-tips-and-tricks/blob/main/README.md#implementing-range-in-python)
+* [Decorators in Python](#decorators-in-python)
+* [Implementing Range in Python](#implementing-range-in-python)
+
+# Decorators in Python
+
+![](images/decorators-in-python.jpg)
 
 # Implementing Range in Python
 
