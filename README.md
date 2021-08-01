@@ -7,7 +7,7 @@
 
 # Displaying Many to Many Fields in Django
 
-[Source Code](code/displaying-many-to-many-fields-in-django.py)
+[Source Code](source/displaying-many-to-many-fields-in-django.py)
 
 ![](images/displaying-many-to-many-fields-in-django.jpg)
 
