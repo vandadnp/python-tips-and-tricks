@@ -1,9 +1,16 @@
 # Table of Contents
 
+* [Custom Properties in Django](#custom-properties-in-django)
 * [Displaying Many to Many Fields in Django](#displaying-many-to-many-fields-in-django)
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Custom Properties in Django
+
+[Source Code](source/custom-properties-in-django.py)
+
+![](images/custom-properties-in-django.jpg)
 
 # Displaying Many to Many Fields in Django
 
