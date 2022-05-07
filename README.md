@@ -1,10 +1,17 @@
 # Table of Contents
 
+* [Unpacking Tuples in Python](#unpacking-tuples-in-python)
 * [Custom Properties in Django](#custom-properties-in-django)
 * [Displaying Many to Many Fields in Django](#displaying-many-to-many-fields-in-django)
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Unpacking Tuples in Python
+
+[Source Code](source/unpacking-tuples-in-python.py)
+
+![](images/unpacking-tuples-in-python.jpg)
 
 # Custom Properties in Django
 
