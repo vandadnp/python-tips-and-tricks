@@ -1,7 +1,7 @@
-// 🐦 Twitter                   https://twitter.com/vandadnp
-// 🔵 LinkedIn                  https://linkedin.com/in/vandadnp
-// 🎥 YouTube                   https://youtube.com/c/vandadnp
-// 🤝 Want to support my work?  https://buymeacoffee.com/vandad
+# 🐦 Twitter                   https://twitter.com/vandadnp
+# 🔵 LinkedIn                  https://linkedin.com/in/vandadnp
+# 🎥 YouTube                   https://youtube.com/c/vandadnp
+# 🤝 Want to support my work?  https://buymeacoffee.com/vandad
 
 names = ["foo", "bar", "baz", "qux"]
 # skip all values except for the first one
