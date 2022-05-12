@@ -1,11 +1,18 @@
 # Table of Contents
 
+* [Python List Slicing Cheat Sheet](#python-list-slicing-cheat-sheet)
 * [Unpacking Tuples in Python](#unpacking-tuples-in-python)
 * [Custom Properties in Django](#custom-properties-in-django)
 * [Displaying Many to Many Fields in Django](#displaying-many-to-many-fields-in-django)
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Python List Slicing Cheat Sheet
+
+[Source Code](source/python-list-slicing-cheat-sheet.py)
+
+![](images/python-list-slicing-cheat-sheet.jpg)
 
 # Unpacking Tuples in Python
 
