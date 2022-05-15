@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Sorting by Enum Values in Python](#sorting-by-enum-values-in-python)
 * [Python List Slicing Cheat Sheet](#python-list-slicing-cheat-sheet)
 * [Unpacking Tuples in Python](#unpacking-tuples-in-python)
 * [Custom Properties in Django](#custom-properties-in-django)
@@ -7,6 +8,12 @@
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Sorting by Enum Values in Python
+
+[Source Code](source/sorting-by-enum-values-in-python.py)
+
+![](images/sorting-by-enum-values-in-python.jpg)
 
 # Python List Slicing Cheat Sheet
 
