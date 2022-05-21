@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Property Validation in Python](#property-validation-in-python)
 * [Readonly Attributes in Python](#readonly-attributes-in-python)
 * [Sorting by Enum Values in Python](#sorting-by-enum-values-in-python)
 * [Enum Names and Values in Python](#enum-names-and-values-in-python)
@@ -10,6 +11,12 @@
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Property Validation in Python
+
+[Source Code](../source/property-validation-in-python.py)
+
+![](../images/property-validation-in-python.jpg)
 
 # Readonly Attributes in Python
 
