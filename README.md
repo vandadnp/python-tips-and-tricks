@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Python 3.10 Union Types](python-3.10-union-types)
+* [Python 3.10 Union Types](#python-3.10-union-types)
 * [Property Validation in Python](#property-validation-in-python)
 * [Readonly Attributes in Python](#readonly-attributes-in-python)
 * [Sorting by Enum Values in Python](#sorting-by-enum-values-in-python)
