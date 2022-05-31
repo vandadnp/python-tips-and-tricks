@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Python 3.10 Union Types](python-3.10-union-types)
 * [Property Validation in Python](#property-validation-in-python)
 * [Readonly Attributes in Python](#readonly-attributes-in-python)
 * [Sorting by Enum Values in Python](#sorting-by-enum-values-in-python)
@@ -11,6 +12,12 @@
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# Python 3.10 Union Types
+
+[Source Code](source/python-3.10-union-types.py)
+
+![](images/python-3.10-union-types.jpg)
 
 # Property Validation in Python
 
