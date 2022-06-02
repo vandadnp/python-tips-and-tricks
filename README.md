@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [`IntFlag` Enum in Python](#intflag-enum-in-python)
 * [Python 3.10 Union Types](#python-310-union-types)
 * [Property Validation in Python](#property-validation-in-python)
 * [Readonly Attributes in Python](#readonly-attributes-in-python)
@@ -12,6 +13,12 @@
 * [Inline Text Choices in Django](#inline-text-choices-in-django)
 * [Decorators in Python](#decorators-in-python)
 * [Implementing Range in Python](#implementing-range-in-python)
+
+# `IntFlag` Enum in Python
+
+[Source Code](source/intflag-enum-in-python.py)
+
+![](images/intflag-enum-in-python.jpg)
 
 # Python 3.10 Union Types
 
